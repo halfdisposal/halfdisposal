@@ -6,7 +6,6 @@
 
 ## About Me
 
-- **Pronouns:** He/Him
 - **Currently Learning:** Machine Learning 🤖
 - **Passionate About:** Exploring data, building intelligent models, and continuous learning.
 
