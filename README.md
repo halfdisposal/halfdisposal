@@ -11,7 +11,6 @@
 
 ## GitHub Stats
 
-![Halfdisposal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=halfdisposal&show_icons=true&theme=radical)
-
+![Halfdisposal's GitHub Stats](https://github-readme-stats.shion.dev/api?username=halfdisposal&show_icons=true&theme=radical)
 
 Feel free to reach out for collaborations or just to say hi!
