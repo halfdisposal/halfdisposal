@@ -1,8 +1,6 @@
 # Hi there, I'm Halfdisposal! 👋
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=Halfdisposal&color=green&style=for-the-badge)
-
+[![Views Badge](https://views.whatilearened.today/views/github/halfdisposal/halfdisposal)](https://github.com/halfdisposal/halfdisposal)
 
 ## GitHub Stats
 
