@@ -1,6 +1,5 @@
-# Hi there, I'm Halfdisposal! 👋
-
-[![Views Badge](https://views.whatilearened.today/views/github/halfdisposal/halfdisposal)](https://github.com/halfdisposal/halfdisposal)
+# Hi there, I'm Halfdisposal!
+[![Views Badge](https://views.whatilearened.today/views/github/halfdisposal/halfdisposal.svg)](https://github.com/halfdisposal/halfdisposal)
 
 ## GitHub Stats
 
