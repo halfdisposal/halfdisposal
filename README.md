@@ -4,6 +4,7 @@
 ## GitHub Stats
 
 ![Halfdisposal's GitHub Stats](https://github-readme-stats.shion.dev/api?username=halfdisposal&show_icons=true&theme=radical)
-![Activity Radar](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=halfdisposal&theme=default)
+![Activity Radar](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=halfdisposal&theme=tokyonight)
+
 
 Feel free to reach out for collaborations or just to say hi!
